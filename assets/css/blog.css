@@ -63,10 +63,6 @@ header {
     font-size: 20px;
 }
 
-.navbar_links #sla {
-        display: none;
-    }
-
 /* CORREÇÃO: Adicionar navbar_right */
 .navbar_right {
     display: flex;
@@ -491,6 +487,10 @@ footer > span {
         font-size: 18px;
     }
 
+    .navbar_links #sla {
+        display: none;
+    }
+
     .profile_section {
         font-size: 18px;
     }
@@ -543,6 +543,10 @@ footer > span {
 
     .navbar_links {
         top: 60px;
+    }
+
+    .navbar_links #sla {
+        display: none;
     }
 
     .profile_section {
@@ -646,6 +650,10 @@ footer > span {
         width: 32px;
         height: 32px;
         font-size: 20px;
+    }
+
+    .navbar_links #sla {
+        display: none;
     }
 
     .profile_section {

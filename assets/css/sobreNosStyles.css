@@ -485,6 +485,10 @@ footer > span {
         font-size: 18px;
     }
 
+    .navbar_links #sla {
+        display: none;
+    }
+
     .navbar_toggle {
         display: flex;
         align-items: center;
@@ -576,6 +580,10 @@ footer > span {
 
     .navbar_links {
         top: 60px;
+    }
+
+    .navbar_links #sla {
+        display: none;
     }
 
     main {
@@ -679,6 +687,10 @@ footer > span {
 
     .profile_section a {
         font-size: 14px;
+    }
+
+    .navbar_links #sla {
+        display: none;
     }
 
     .navbar_toggle {

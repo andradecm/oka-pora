@@ -105,10 +105,6 @@ header::before {
     font-size: 20px;
 }
 
-.navbar_links #sla {
-        display: none;
-    }
-
 .profile_section{
     color: var(--white);
     font-weight: 600;
@@ -629,6 +625,10 @@ footer > span {
         font-size: 18px;
     }
 
+    .navbar_links #sla {
+        display: none;
+    }
+
     .navbar_right {
         display: flex;
         align-items: center;
@@ -685,6 +685,10 @@ footer > span {
 
     .navbar_links a {
         font-size: 18px;
+    }
+
+    .navbar_links #sla {
+        display: none;
     }
 
     .navbar_right {
@@ -795,6 +799,10 @@ footer > span {
         width: 32px;
         height: 32px;
         font-size: 20px;
+    }
+
+    .navbar_links #sla {
+        display: none;
     }
 
     .card {

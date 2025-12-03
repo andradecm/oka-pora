@@ -75,10 +75,6 @@ header {
     font-size: 20px;
 }
 
-.navbar_links #sla {
-        display: none;
-    }
-
 .profile_section {
     color: var(--white);
     font-weight: 600;
@@ -772,6 +768,10 @@ footer > span {
         font-size: 18px;
     }
 
+    .navbar_links #sla {
+        display: none;
+    }
+
     .hero_section {
         padding-block: 150px;
         text-align: center;
@@ -974,6 +974,10 @@ footer > span {
 
     .profile_section a {
         font-size: 14px;
+    }
+
+    .navbar_links #sla {
+        display: none;
     }
 
     .navbar_toggle {
